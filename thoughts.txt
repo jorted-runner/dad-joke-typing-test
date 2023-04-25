@@ -1,5 +1,0 @@
-I'm going about this all wrong. I dont need to allow a user to select a time. I need to provide a random paragraph,
-start the timer when they start typing and then end the timer when they finish typing. I then need to calculate
-wpm based upon how long the paragraph they recieved was, and how long it took. I can then calculate accuracty by
-comparing their submission with the og and counting how many characters were different and then dividing that by
-the total number of characters.
