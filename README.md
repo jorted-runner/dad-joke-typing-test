@@ -11,4 +11,4 @@ Dad Joke Typing Test is a fun typing test that test users accuracy, speed, and h
 6. Run type-test.py
 
 ## Demo
-![DEMO]()
+![DEMO](https://github.com/jorted-runner/dad-joke-typing-test/blob/master/images/DEMO.gif)
