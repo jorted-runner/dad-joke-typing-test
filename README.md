@@ -9,3 +9,6 @@ Dad Joke Typing Test is a fun typing test that test users accuracy, speed, and h
     - API_URL = 'https://api.api-ninjas.com/v1/dadjokes'
 5. Install requirements from requirements.txt
 6. Run type-test.py
+
+## Demo
+![DEMO]()
